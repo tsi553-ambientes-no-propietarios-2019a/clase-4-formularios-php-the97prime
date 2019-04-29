@@ -10,5 +10,26 @@
  Si los datos no son correctos imprimir un mensaje de error.
  Si los datos son correctos debe redirigir a otra página bienvenido.php que debe imprimir el mensaje "Bienvendo JUAN". (con el nombre de usuario en mayúsculas)
  */
+?>
 
+<html>
+<head>
+<title>Pagina</title>
+</head>
+<body>
+
+<form action="bienvenido.php" method="post">
+Ingrese nombre de usuario:
+<input type="text" name="usuario">
+<br>
+Ingrese su clave:
+<input type="password" name="clave">
+<br>
+
+<br>
+<input type="submit" name="Confirmar">
+</form>
+
+</body>
+</html>
 ?>
