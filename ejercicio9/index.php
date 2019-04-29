@@ -27,18 +27,18 @@ $AlineacionVerticalTexto = 'center';
 
 // ----------- INICIO Dias Festivos ----------
 $DiasFestivos[0] = '1/1'; // 1 de enero
-$DiasFestivos[1] = '6/1'; // 6 de enero
-$DiasFestivos[2] = '19/3'; // 19 de marzo
-$DiasFestivos[3] = '1/5'; // 1 de mayo
-$DiasFestivos[4] = '15/8'; // 15 de agosto
-$DiasFestivos[5] = '12/10'; // 12 de octubre
-$DiasFestivos[6] = '1/11'; // 1 de noviembre
-$DiasFestivos[7] = '6/12'; // 6 de diciembre
+$DiasFestivos[1] = '14/2'; // 14 de febrero
+$DiasFestivos[2] = '1/5'; // 1 de mayo
+$DiasFestivos[3] = '24/5'; // 24 de mayo
+$DiasFestivos[4] = '10/8'; // 10 de agosto
+$DiasFestivos[5] = '9/10'; // 9 de octubre
+$DiasFestivos[6] = '2/11'; // 2 de noviembre
+$DiasFestivos[7] = '3/11'; // 3 de noviembre
 $DiasFestivos[8] = '25/12'; // 25 de diciembre
 // festivos Regionales
-$DiasFestivos[9] = '2/5'; // 2 de mayo
-$DiasFestivos[10] = '15/5'; // 15 de mayo
-$DiasFestivos[11] = '9/9'; // 9 de noviembre
+$DiasFestivos[9] = '24/2'; // 24 de febrero(Cumpleaños Papá)
+$DiasFestivos[10] = '10/12'; // 12 de diciembre(Cumpleaños Mamá)
+$DiasFestivos[11] = '25/10'; // Mi cumpleaños
 // Semana Santa
 $DiasFestivos[12] = '18/4'; // Jueves Santo
 $DiasFestivos[13] = '19/4'; // Viernes Santo
